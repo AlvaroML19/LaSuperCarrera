@@ -1,0 +1,14 @@
+# Archivos compilados de Java
+*.class
+bin/
+out/
+target/
+
+# Configuracion personal del editor (VS Code, IntelliJ)
+.vscode/
+.idea/
+*.iml
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
